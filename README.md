@@ -10,7 +10,7 @@ Originally hosted on [OSF](https://osf.io/w2dzt/).
 
 ## My Contribution
 
-I am first author on this paper. I designed and ran the experiments, conducted 
+I am first author on this paper. Along with my collaborators, I designed and ran the experiments, conducted 
 the statistical analysis, and led the writing up of results.
 
 ## Methods
